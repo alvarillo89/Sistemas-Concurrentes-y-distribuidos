@@ -1,5 +1,5 @@
 # Sistemas-Concurrentes-y-distribuidos
-Prácticas de la asginatura
+Prácticas de la asignatura
 
 Autor:
 * Álvaro Fernández García
