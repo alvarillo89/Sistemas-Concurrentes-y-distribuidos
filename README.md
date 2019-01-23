@@ -1,4 +1,4 @@
-# Sistemas-Concurrentes-y-distribuidos
+# Sistemas Concurrentes y distribuidos
 Prácticas de la asignatura
 
 Autor:
